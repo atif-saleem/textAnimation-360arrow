@@ -47,3 +47,8 @@ transform: translateX(-100%);
 img h1{
     font-size: 4vw;
 }
+#page1 img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
